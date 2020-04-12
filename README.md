@@ -3,7 +3,7 @@ Project created on 12/04/2020 README file last updated on 12/04/2020
 This work is based on a project from the Data Analyst Nanodegree of Udacity.
 The goal was to create a visualization and prepare a write up describing the
 similarities and differences between global temperature trends and temperature
-trends in the closest big city to where you live. To do this, i followed the
+trends in the big cities i choosed to show. To do this, i followed the
 steps below:
 
    Extract the data from the database.
