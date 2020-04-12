@@ -1,3 +1,5 @@
+Project created on 12/04/2020 README file last updated on 12/04/2020
+
 This work is based on a project from the Data Analyst Nanodegree of Udacity.
 The goal was to create a visualization and prepare a write up describing the
 similarities and differences between global temperature trends and temperature
